@@ -5,7 +5,7 @@ dotenv.config();
 
 // Import MongoDB model files
 require('./model/model');
-require('./mongodb');
+require('./mongodb'); 
 
  
 // Function to retrieve and replay a user's last message
